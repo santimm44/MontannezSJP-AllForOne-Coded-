@@ -1,0 +1,42 @@
+.user-prompt-adding2numbers
+{
+    grid-row: 7;
+    grid-column: 13/20;
+    padding-left: 1rem;
+}
+/* Search for Taiwind image */
+/* make sure all white spaces are replaced with this for the buttons*/
+/* background-color: #FAF9F600; */
+
+.button-helloWorld__location
+{
+    background-color: #FAF9F600;
+    grid-row: 3/10;
+    grid-column: 9/15;
+}
+
+.user-prompt__location
+{
+    grid-row: 11/14;
+    grid-column: 8/16;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items:center;
+}
+.button-mablib__location{
+    grid-row: 2/4;
+    grid-column: 11/13;
+}
+
+.user-prompt--madlib__location{
+    grid-row: 6/14;
+    grid-column: 3/20;
+}
+
+.user-prompt--restaurantPicker__location{
+    grid-column: 2/20;
+    grid-row: 11/14;
+
+}
